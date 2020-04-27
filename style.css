@@ -1,0 +1,17 @@
+#box1{
+    float: left;
+}
+
+#timer {
+    float: right;
+    font-size: 20px;
+    margin-right: 30%;
+    color: red;
+}
+p{
+   margin-left: 20%;
+}
+#submit{
+    margin-left: 15%;
+    font-size: 20px;
+}
